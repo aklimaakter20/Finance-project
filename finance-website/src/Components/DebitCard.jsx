@@ -6,7 +6,7 @@ function DebitCard() {
     <section className="mt-20">
       <div className="container mx-auto">
         <div className="flex flex-col-reverse sm:flex-row gap-10 lg:gap-2.5 xl:gap-8 justify-between items-center">
-          <div className="text-center mx-auto font-bold leading-tight text-2xl lg:text-3xl">
+          <div className="text-center sm:text-start mx-auto font-bold leading-tight text-2xl lg:text-3xl">
             <h2>Wern Debit Card</h2>
             <p className="text-secondary font-normal text-sm lg:text-base w-full max-w-[480px] py-3 sm:py-6">
               More than just a card, its a bridge to a new financial

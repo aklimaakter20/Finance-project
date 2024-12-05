@@ -9,7 +9,7 @@ function PerfectCard() {
         <div className="flex flex-col sm:flex-row gap-10 lg:gap-2.5 xl:gap-8 justify-between items-center">
         <img className="w-1/2 " src={PerfectCardImg} alt="" />
 
-          <div className="text-center mx-auto font-bold leading-tight text-2xl lg:text-3xl">
+          <div className="text-center sm:text-start mx-auto font-bold leading-tight text-2xl lg:text-3xl">
             <h2>Find the Perfect Card for You</h2>
             <p className="text-secondary font-normal text-sm lg:text-base w-full max-w-[600px] py-3 sm:py-6">
             Unlocking the Power of Crypto, Both Virtually and Physically
