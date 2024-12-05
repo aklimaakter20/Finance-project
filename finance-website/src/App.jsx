@@ -4,6 +4,7 @@ import DebitCard from './Components/DebitCard'
 import Hero from './Components/Hero'
 import NavbarArea from './Components/NavbarArea'
 import Offer from './Components/Offer'
+import PerfectCard from './Components/PerfectCard'
 import Vision from './Components/Vision'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <Vision/>
     <Offer/>
     <DebitCard/>
+    <PerfectCard/>
     </div>
 
     </main>

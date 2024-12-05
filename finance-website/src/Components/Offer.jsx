@@ -25,7 +25,7 @@ function Offer() {
     },
   ];
   return (
-    <section className="mt-32">
+    <section className="mt-20">
                 <h2 className="font-bold text-center leading-tight text-2xl lg:text-3xl text-white py-10">What do we offer?</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
