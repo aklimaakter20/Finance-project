@@ -32,7 +32,7 @@ function Offer() {
         {
             OfferList.map((item)=> (
                 <div className="flex gap-4">
-                    <div className="bg-[#3D3F54] flex items-center justify-center max-h-12 max-w-12 rounded-xl w-4/5">
+                    <div className="bg-[#3D3F54] flex items-center justify-center max-h-12 max-w-12 rounded-xl w-3/5">
                         <img className="h-6 w-6" src={item.icon} alt="" />
                     </div>
                     <div>
